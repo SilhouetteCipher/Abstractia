@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "402ee19065851320",
+        "id": "00c50234574bee2a",
         "type": "tabs",
         "children": [
           {
-            "id": "14d6d1c4abb2e059",
+            "id": "ae166db9573cafeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/portfolio/Poppp.md",
+                "file": "content/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portfolio/Poppp.md",
+                "file": "content/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portfolio/Poppp.md",
+                "file": "content/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portfolio/Poppp.md"
+                "file": "content/Untitled.md"
               }
             }
           }
@@ -146,29 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14d6d1c4abb2e059",
+  "active": "ae166db9573cafeb",
   "lastOpenFiles": [
-    "public/portfolio/poppp/index.html",
-    "public/portfolio/poppp",
+    "public/untitled/index.html",
+    "public/untitled",
+    "content/Untitled.md",
+    "content/Whataman.md",
+    "public/whataman/index.html",
+    "public/whataman",
+    "public/portfolio/whataman/index.html",
+    "public/portfolio/whataman",
     "public/portfolio/untitled/index.html",
     "public/portfolio/untitled",
-    "Untitled.md",
     "content/portfolio/Poppp.md",
-    "content/portfolio/This is Me.md",
-    "public/portfolio/this-is-me/index.html",
-    "public/portfolio/this-is-me",
-    "Post Temps/Full Image Tile.md",
-    "Post Temps",
-    "public/portfolio/full-image-tile/index.html",
-    "public/portfolio/full-image-tile",
-    "content/portfolio/work3.md",
-    "content/portfolio/work1.md",
-    "public/portfolio/work-masel/index.html",
-    "public/portfolio/work-masel",
-    "content/portfolio/work11.md",
-    "themes/hugo-creative-portfolio-theme/images/tn.png",
-    "themes/hugo-creative-portfolio-theme/images/screenshot.png",
-    "themes/hugo-creative-portfolio-theme/static/css/fonts/fontawesome-webfont.svg",
-    "content/portfolio/work2.md"
+    "public/work3/index.html",
+    "public/work3",
+    "public/work7/index.html",
+    "content/work11.md",
+    "content/work10.md",
+    "content/work9.md",
+    "content/work8.md",
+    "content/work7.md",
+    "content/work6.md",
+    "content/work5.md",
+    "content/work4.md",
+    "content/work3.md",
+    "content/work2.md",
+    "content/work1.md",
+    "content/This is Me.md",
+    "content/Poppp.md",
+    "content/_index.md",
+    "content/Plop copy/work9.md",
+    "content/Plop copy/work8.md",
+    "content/Plop copy/work7.md",
+    "content/Plop copy/work6.md",
+    "content/Plop copy/work5.md",
+    "content/Plop copy/work4.md",
+    "content/Plop copy/work3.md",
+    "content/Plop copy/work2.md",
+    "public/css/fonts/fontawesome-webfont.svg",
+    "public/img/portfolio/trifold.jpg",
+    "public/img/portfolio/paper-presentation.jpg",
+    "public/img/portfolio/label-clothes.jpg",
+    "public/img/portfolio/ipad-air-2.jpg",
+    "public/img/portfolio/gravity-paper.jpg",
+    "public/img/portfolio/business-card.jpg",
+    "public/img/portfolio/envelope-brand.jpg",
+    "public/img/portfolio/business-card-26.jpg",
+    "public/img/portfolio/a4-paper.jpg"
   ]
 }
