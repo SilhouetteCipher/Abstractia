@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00c50234574bee2a",
+        "id": "2125abbb9c3efb76",
         "type": "tabs",
         "children": [
           {
-            "id": "ae166db9573cafeb",
+            "id": "295ec9ace8f6da67",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae166db9573cafeb",
+  "active": "295ec9ace8f6da67",
   "lastOpenFiles": [
+    "public/ya/index.html",
+    "public/ya",
+    "public/img/ehjn800w.bmp",
+    "content/Untitled.md",
+    "content/img/ehjn800w.bmp",
+    "content/img",
+    "content/Ya.md",
     "public/untitled/index.html",
     "public/untitled",
-    "content/Untitled.md",
     "content/Whataman.md",
     "public/whataman/index.html",
     "public/whataman",
@@ -159,9 +157,6 @@
     "public/portfolio/untitled/index.html",
     "public/portfolio/untitled",
     "content/portfolio/Poppp.md",
-    "public/work3/index.html",
-    "public/work3",
-    "public/work7/index.html",
     "content/work11.md",
     "content/work10.md",
     "content/work9.md",
@@ -183,7 +178,6 @@
     "content/Plop copy/work5.md",
     "content/Plop copy/work4.md",
     "content/Plop copy/work3.md",
-    "content/Plop copy/work2.md",
     "public/css/fonts/fontawesome-webfont.svg",
     "public/img/portfolio/trifold.jpg",
     "public/img/portfolio/paper-presentation.jpg",
@@ -191,8 +185,6 @@
     "public/img/portfolio/ipad-air-2.jpg",
     "public/img/portfolio/gravity-paper.jpg",
     "public/img/portfolio/business-card.jpg",
-    "public/img/portfolio/envelope-brand.jpg",
-    "public/img/portfolio/business-card-26.jpg",
-    "public/img/portfolio/a4-paper.jpg"
+    "public/img/portfolio/envelope-brand.jpg"
   ]
 }
