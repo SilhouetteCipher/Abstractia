@@ -1,124 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://SilhouetteCipher.github.io/Abstractia/</link>
+    <link>http://localhost:1313/Abstractia/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://SilhouetteCipher.github.io/Abstractia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/Abstractia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Collections No.1</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Name of the work 2</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work2/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Collections No.2</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections2/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections2/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Name of the work 3</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work3/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Collections No.3</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections3/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections3/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Item without image</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work4/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Collections No.4</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections4/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections4/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Name of the work 5</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work5/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Collections No.5</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections5/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections5/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Name of the work 6</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work6/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Collections No.6</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections6/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/collections/2023/collections6/</guid>
-      <description>Articles about learning in public, brag document and free stuffs.</description>
+      <title>Name of the work 7</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work7/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How to use this Hugo theme ?</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/use-this-theme/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/use-this-theme/</guid>
-      <description>After downloding the theme, uzip the file and go to the&amp;#39;lightbi-hugo-master&amp;#39; folder. Open the folder in you editor...</description>
+      <title>Name of the work 8</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work8/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Build a Hugo Blog</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/build-hugo-blog/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/build-hugo-blog/</guid>
-      <description>It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub...</description>
+      <title>Item with image</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work9/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Note 1</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+      <title>Item with image</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work10/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Note 2</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change2/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change2/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
+      <title>Item with image</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Note 3</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change3/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/notes/2020/change3/</guid>
-      <description>Journaling is not just a little thing you do to pass the time, to write down your memories—though it can be—it’s a strategy that has helped brilliant, powerful and wise people become better at what they do.</description>
-    </item>
-    <item>
-      <title>What is Markdown ?</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/markdown/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/markdown/</guid>
-      <description>The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use...</description>
-    </item>
-    <item>
-      <title>Basic Syntax</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/syntax/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/syntax/</guid>
-      <description>To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond...</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/rich-content/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/rich-content/</guid>
-      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable.</description>
-    </item>
-    <item>
-      <title>Host in Netlify</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/netlify-conf/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/netlify-conf/</guid>
-      <description>You can host your static website wth zero cost in Netlify. Add the below netlify.toml in the root. And you can upload the public folder directly...</description>
-    </item>
-    <item>
-      <title>Who am I ?!</title>
-      <link>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/who-am-i/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://SilhouetteCipher.github.io/Abstractia/post/2020/jan/who-am-i/</guid>
-      <description>Who am I ?! This is the most asked question in my life. Yet no clear answer...</description>
+      <title>Name of the work 1</title>
+      <link>http://localhost:1313/Abstractia/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <guid>http://localhost:1313/Abstractia/portfolio/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
